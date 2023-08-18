@@ -35,7 +35,7 @@ namespace DevButton
                         if (Button1.Left >= this.Width - Button1.Width - 75)
                         {
                             s = 1;
-                            Button1.Visible = false;
+                            Button1.Visible = false; 
                         }
                     }
                 }
